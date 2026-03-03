@@ -28,3 +28,19 @@ Using data from the Umweltbundeamt (01.2016 - 02.2026), I analysed the Nitrogen 
 - Population denisty seems to correlate with NO2 very weakly in the 3 city states: Bremen, Hamburg, and Berlin
 
 **Technical Stack:** Python, pandas, Plotly, Umweltbundesamt Data
+
+
+## Interactive NO2 Air Quality Dashboard
+
+**Live Dashboard:** https://data-analysis-practice-no2-analysis.streamlit.app/
+
+Interactive analysis of 10 years of NO2 air quality data across all German states using Streamlit
+
+**Features:**
+- Regional filtering to specific areas
+- Seasonal pattern analysis showing variation across months
+- Timelapse choropleth map of geographic distribution
+
+**Key-findings:** January shows unexpectedly low NO2 levels despite being a winter month
+
+**tech stack:** Streamlit, Plotly, pandas, German environmental data (Umweltbundesamt)
