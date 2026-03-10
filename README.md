@@ -10,7 +10,7 @@ I'm updating my data analysis skills. This repo will track my "rough work"
 Started: 26.01.2026
 
 
-## Visualisations
+## Week 3: NO2 Visualisations
 
 Using data from the Umweltbundeamt (01.2016 - 02.2026), I analysed the Nitrogen Dioxide(NO2) levels across German states, focusing mainly on Hamburg traffic sensors.
 
@@ -44,3 +44,9 @@ Interactive analysis of 10 years of NO2 air quality data across all German state
 **Key-findings:** January shows unexpectedly low NO2 levels despite being a winter month
 
 **tech stack:** Streamlit, Plotly, pandas, German environmental data (Umweltbundesamt)
+
+## Week 4: Coastal News Visualisations
+Rebuilt my CSIR project using modern Python tools. Interactive visualisations of ocean- and coasts-related news coverage (2014 - 2016)
+
+**Live Dashboard:** https://coastal-news-classifier.streamlit.app/ 
+**Tech Stack:** Streamlit, Plotly, pandas
